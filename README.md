@@ -1,3 +1,3 @@
 # DO101-apps
 
-Apps for the DO101 course.
+Used case Apps for the DO101 course.
